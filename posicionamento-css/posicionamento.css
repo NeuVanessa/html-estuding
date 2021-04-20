@@ -1,0 +1,29 @@
+div.esqbaixo {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  width: 100px;
+  background-color: green;
+}
+
+div.esqcima {
+  position: fixed;
+  left: 0px;
+  width: 100px;
+  background-color: red;
+}
+
+div.dirbaixo {
+  position: fixed;
+  bottom:3px;
+  right: 0px;
+  width: 100px;
+  background-color: Blue;
+}
+
+div.dircima {
+  position: fixed;
+  right: 0;
+  width: 100px;
+  background-color: yellow;
+}
